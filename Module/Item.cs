@@ -9,8 +9,6 @@ namespace StockManagementSystem.Module
     public class Item
     {
         public string Name { get; set; }
-        public string Recoder { get; set; }
-        public int CompanyId { get; set; }
-        public int CategoryId { get; set; }
+        public int Recoder { get; set; }
     }
 }

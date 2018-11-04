@@ -25,7 +25,20 @@ namespace StockManagementSystem.BLL
 
         public bool Save(Item item, Company company, Category category)
         {
-
+            bool dupCheck = _itemSetupRepository.DuplicateCheck(item);
+            if (dupCheck)
+            {
+                return dupCheck;
+            }  
+            else
+            {
+                bool isSave = _itemSetupRepository.Save(item, company, category);
+                if (isSave)
+                {
+                   
+                }
+            }
+            return false;
         }
 
     }

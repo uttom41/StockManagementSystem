@@ -27,10 +27,10 @@ namespace StockManagementSystem
         private void ItemSetupSaveButton_Click(object sender, EventArgs e)
         {
             _inItemSetupClass.Name = itemNameTextBox.Text;
-            _inItemSetupClass.Recoder = ItemReorderLaveTextBox.Text;
+            string record = ItemReorderLaveTextBox.Text;
             company.Id = Convert.ToInt32(ItemCompanyNameComboBox.SelectedValue);
             category.Id = Convert.ToInt32(ItemCategoryNameComboBox.SelectedValue);
-            EmptyChect(_inItemSetupClass.Name, _inItemSetupClass.Recoder);
+            EmptyChect(_inItemSetupClass.Name, record);
 
         }
 
@@ -51,7 +51,16 @@ namespace StockManagementSystem
             }
             else
             {
-                bool isSave = _itemSetupManager.Save(_inItemSetupClass, category, company);
+                _inItemSetupClass.Recoder = Convert.ToInt32(recoder);
+                bool isSave = _itemSetupManager.Save(_inItemSetupClass, company, category);
+                if (isSave)
+                {
+                    MessageBox.Show("Name is Exist");
+                }
+                else
+                {
+                    MessageBox.Show("Save Successfully");
+                }
             }
 
         }

@@ -25,9 +25,9 @@ namespace StockManagementSystem.DAL
            {
                return true;
            }
-
+           con.Close();
            return false;
-
+           
        }
         public bool Save(Category category,Company companyClass)
         {
