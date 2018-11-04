@@ -1,0 +1,80 @@
+H:\bitm class eve53 batch\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe.config
+H:\bitm class eve53 batch\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe
+H:\bitm class eve53 batch\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.pdb
+H:\bitm class eve53 batch\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+H:\bitm class eve53 batch\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.MainForm.resources
+H:\bitm class eve53 batch\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.Properties.Resources.resources
+H:\bitm class eve53 batch\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csproj.GenerateResource.Cache
+H:\bitm class eve53 batch\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.exe
+H:\bitm class eve53 batch\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
+H:\bitm class eve53 batch\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.CategorySetup.resources
+H:\bitm class eve53 batch\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.CompanySetup.resources
+H:\bitm class eve53 batch\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.ItemSetup.resources
+H:\bitm class eve53 batch\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.SearchAndViewItemSummary.resources
+H:\bitm class eve53 batch\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.StockIn.resources
+H:\bitm class eve53 batch\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.StockOut.resources
+H:\bitm class eve53 batch\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.ViewSalesBetweenTwoDates.resources
+F:\dot net\SMS Porject\GroupProject\GroupProject\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe.config
+F:\dot net\SMS Porject\GroupProject\GroupProject\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.exe
+F:\dot net\SMS Porject\GroupProject\GroupProject\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
+F:\dot net\SMS Porject\GroupProject\GroupProject\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe
+F:\dot net\SMS Porject\GroupProject\GroupProject\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.pdb
+F:\dot net\SMS Porject\GroupProject\GroupProject\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+F:\dot net\SMS Porject\GroupProject\GroupProject\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.CategorySetup.resources
+F:\dot net\SMS Porject\GroupProject\GroupProject\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.CompanySetup.resources
+F:\dot net\SMS Porject\GroupProject\GroupProject\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.ItemSetup.resources
+F:\dot net\SMS Porject\GroupProject\GroupProject\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.MainForm.resources
+F:\dot net\SMS Porject\GroupProject\GroupProject\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.Properties.Resources.resources
+F:\dot net\SMS Porject\GroupProject\GroupProject\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.SearchAndViewItemSummary.resources
+F:\dot net\SMS Porject\GroupProject\GroupProject\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.StockIn.resources
+F:\dot net\SMS Porject\GroupProject\GroupProject\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.StockOut.resources
+F:\dot net\SMS Porject\GroupProject\GroupProject\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.ViewSalesBetweenTwoDates.resources
+F:\dot net\SMS Porject\GroupProject\GroupProject\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csproj.GenerateResource.Cache
+F:\dot net\SMS Porject\sms\SMS\StockManagementSystem\bin\Debug\StockManagementSystem.exe.config
+F:\dot net\SMS Porject\sms\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.exe
+F:\dot net\SMS Porject\sms\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
+F:\dot net\SMS Porject\sms\SMS\StockManagementSystem\bin\Debug\StockManagementSystem.exe
+F:\dot net\SMS Porject\sms\SMS\StockManagementSystem\bin\Debug\StockManagementSystem.pdb
+F:\dot net\SMS Porject\sms\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.CategorySetup.resources
+F:\dot net\SMS Porject\sms\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.CompanySetup.resources
+F:\dot net\SMS Porject\sms\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.ItemSetup.resources
+F:\dot net\SMS Porject\sms\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.MainForm.resources
+F:\dot net\SMS Porject\sms\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.Properties.Resources.resources
+F:\dot net\SMS Porject\sms\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.SearchAndViewItemSummary.resources
+F:\dot net\SMS Porject\sms\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.StockIn.resources
+F:\dot net\SMS Porject\sms\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.StockOut.resources
+F:\dot net\SMS Porject\sms\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.ViewSalesBetweenTwoDates.resources
+F:\dot net\SMS Porject\sms\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.csproj.GenerateResource.Cache
+F:\dot net\SMS Porject\sms\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+E:\Bitm.Net\SMS\StockManagementSystem\bin\Debug\StockManagementSystem.exe.config
+E:\Bitm.Net\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.exe
+E:\Bitm.Net\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
+E:\Bitm.Net\SMS\StockManagementSystem\bin\Debug\StockManagementSystem.exe
+E:\Bitm.Net\SMS\StockManagementSystem\bin\Debug\StockManagementSystem.pdb
+E:\Bitm.Net\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+E:\Bitm.Net\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.CategorySetup.resources
+E:\Bitm.Net\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.CompanySetup.resources
+E:\Bitm.Net\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.ItemSetup.resources
+E:\Bitm.Net\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.MainForm.resources
+E:\Bitm.Net\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.Properties.Resources.resources
+E:\Bitm.Net\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.SearchAndViewItemSummary.resources
+E:\Bitm.Net\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.StockIn.resources
+E:\Bitm.Net\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.StockOut.resources
+E:\Bitm.Net\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.ViewSalesBetweenTwoDates.resources
+E:\Bitm.Net\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.csproj.GenerateResource.Cache
+F:\dot net\SMS\StockManagementSystem\bin\Debug\StockManagementSystem.exe.config
+F:\dot net\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.exe
+F:\dot net\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
+F:\dot net\SMS\StockManagementSystem\bin\Debug\StockManagementSystem.exe
+F:\dot net\SMS\StockManagementSystem\bin\Debug\StockManagementSystem.pdb
+F:\dot net\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+F:\dot net\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.CategorySetup.resources
+F:\dot net\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.CompanySetup.resources
+F:\dot net\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.ItemSetup.resources
+F:\dot net\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.MainForm.resources
+F:\dot net\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.Properties.Resources.resources
+F:\dot net\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.SearchAndViewItemSummary.resources
+F:\dot net\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.StockIn.resources
+F:\dot net\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.StockOut.resources
+F:\dot net\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.ViewSalesBetweenTwoDates.resources
+F:\dot net\SMS\StockManagementSystem\obj\Debug\StockManagementSystem.csproj.GenerateResource.Cache
