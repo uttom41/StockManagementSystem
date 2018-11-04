@@ -41,5 +41,11 @@ namespace StockManagementSystem.BLL
             return false;
         }
 
+       public List<Item> GetDataGridview()
+       {
+           List<Item> itemview = _itemSetupRepository.GetDataGridview();
+           return itemview;
+       }
+
     }
 }

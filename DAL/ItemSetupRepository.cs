@@ -14,6 +14,8 @@ namespace StockManagementSystem.DAL
   public  class ItemSetupRepository
   {
       private string ConString = @"Server=.; Database=StockManagement;Integrated Security=true;";
+      Company company=new Company();
+      Item _inItemSetupClass =new Item();
         public List<Company> GetDataSourceCompanyName()
         {
             SqlConnection con=new SqlConnection(ConString);
@@ -40,7 +42,7 @@ namespace StockManagementSystem.DAL
       public List<Category> GetDataCategoryComboBox()
       {
           SqlConnection con=new SqlConnection(ConString);
-          string query = @"SELECT * From Categories";
+          string query = @"SELECT* From Categories Where CompanyId = '" + company.Id + "'";
           SqlCommand cmd=new SqlCommand(query,con);
           con.Open();
           SqlDataAdapter da=new SqlDataAdapter(cmd);
@@ -92,6 +94,29 @@ namespace StockManagementSystem.DAL
           }
 
           return false;
+      }
+      public List<Item> GetDataGridview()
+      {
+          SqlConnection con= new SqlConnection(ConString);
+          string query = @"Select * from Items";
+          SqlCommand cmd= new SqlCommand(query,con);
+          con.Open();
+          SqlDataAdapter da= new SqlDataAdapter(cmd);
+          DataTable dt = new DataTable();
+          da.Fill(dt);
+          con.Close();
+
+
+          List<Item> datashow=new List<Item>();
+
+          foreach (DataRow a in dt.Rows)
+          {
+              Item item=new Item();
+              item.Name = a["Name"].ToString();
+              datashow.Add(item);
+          }
+
+          return datashow;
       }
 
     }

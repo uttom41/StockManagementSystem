@@ -10,5 +10,6 @@ namespace StockManagementSystem.Module
     {
         public string Name { get; set; }
         public int Recoder { get; set; }
+        //public int CompanyId { get; set; }
     }
 }

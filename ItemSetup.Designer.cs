@@ -113,6 +113,7 @@
             this.ItemCompanyNameComboBox.Size = new System.Drawing.Size(222, 28);
             this.ItemCompanyNameComboBox.TabIndex = 5;
             this.ItemCompanyNameComboBox.ValueMember = "Id";
+            this.ItemCompanyNameComboBox.SelectedIndexChanged += new System.EventHandler(this.ItemCompanyNameComboBox_SelectedIndexChanged);
             // 
             // companyClassBindingSource
             // 

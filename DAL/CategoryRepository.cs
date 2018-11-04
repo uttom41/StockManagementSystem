@@ -106,5 +106,7 @@ namespace StockManagementSystem.DAL
            return companylist;
        }
 
+      
+
     }
 }

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
 using System.Security.Cryptography;
@@ -70,11 +71,31 @@ namespace StockManagementSystem
             List<Company> company = _itemSetupManager.GetDataSourceCompany();
             companyClassBindingSource.DataSource = company;
 
-            List<Category> category = _itemSetupManager.GetDataCategoryComboBox();
-            categoryClassBindingSource.DataSource = category;
+            //List<Category> category = _itemSetupManager.GetDataCategoryComboBox();
+            //categoryClassBindingSource.DataSource = category;
+
+            List<Item> itemShow = _itemSetupManager.GetDataGridview();
+            ItemSetupdataGridView.DataSource = itemShow;
 
 
+        }
 
+        private void ItemCompanyNameComboBox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            company.Id = Convert.ToInt32(ItemCompanyNameComboBox.SelectedValue);
+            //List<Category> category = _itemSetupManager.GetDataCategoryComboBox();
+            //categoryClassBindingSource.DataSource = category;
+            
+            string ConString = @"Server=.; Database=StockManagement;Integrated Security=true;";
+            SqlConnection con = new SqlConnection(ConString);
+            string query = @"SELECT* From Categories Where CompanyId = '" + company.Id + "'";
+            SqlCommand cmd = new SqlCommand(query, con);
+            con.Open();
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            con.Close();
+            categoryClassBindingSource.DataSource = dt;
         }
     }
 }
